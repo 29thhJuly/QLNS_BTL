@@ -1,0 +1,11 @@
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\bin\Debug\BaitaplonQLNS.exe.config
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\bin\Debug\BaitaplonQLNS.exe
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\bin\Debug\BaitaplonQLNS.pdb
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.csproj.AssemblyReference.cache
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.Form1.resources
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.Properties.Resources.resources
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.csproj.GenerateResource.cache
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.csproj.CoreCompileInputs.cache
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.exe
+C:\Users\Duong Nguyen\OneDrive\Máy tính\Hk1\PTUD\BTL\BaitaplonQLNS\BaitaplonQLNS\obj\Debug\BaitaplonQLNS.pdb
